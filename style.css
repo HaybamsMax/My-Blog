@@ -1,0 +1,45 @@
+/* the body*/
+body{
+    background-color: gray;
+}
+/*Container div*/
+.container{
+    background-color: #b2b2b2;
+    padding: 0%;
+}
+/*The header div*/
+.header{
+    text-align: center;
+    background-color: yellow;
+}
+/*Menu div*/
+.menu{
+  float: left;
+    border: hidden;
+    padding-left: 14px;
+    margin: 0px;
+    
+}
+
+/*Cover div*/
+.main{
+    margin-left: 190px;
+    padding: 10px;
+    border-left: groove;
+    border-color: green;
+}
+/*Last div*/
+.last{
+    float: right;
+    position:absolute;
+    top: 80px;
+    right:20px;
+    border: dashed;
+    border-color: green;
+    padding-left: 30px;
+}
+/*footer div*/
+.footer {
+    text-align: center;
+    font-size: 20px;
+}
